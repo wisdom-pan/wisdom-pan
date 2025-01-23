@@ -5,7 +5,7 @@
 - 🖋 探索LLM、多模态生成在产业界的落地应用
 - 🥋 [我的知乎](https://www.zhihu.com/people/ji-yi-zhong-mei-you-liu-zou-de-shi-guang)
 - 📫 email: wisdompan1@outlook.com
-- ✍️ 公众号 ![公众号](https://github.com/user-attachments/assets/adf8d3df-2e19-40b4-98f1-eb1697fbb829)
+- ✍️ 公众号 ![公众号](https://github.com/user-attachments/assets/4603fc3e-0064-46d3-9360-0b122b8604e7)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wisdom-pan&show_icons=true&theme=tokyonight)
 
