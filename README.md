@@ -18,6 +18,16 @@
 - 🏆 面壁智能黑客松挑战赛 **创新奖**
 - 🥈 百川智能 × 亚马逊云科技黑客松 **二等奖**
 - 🥈 CSDN AI 应用创新大赛 **二等奖**
+- 
+## 开源贡献
+
+  | 项目                    | 链接                                                                            | 贡献内容                                                        |
+| --------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| **DeepResearchAgent** | [SkyworkAI/DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent) | Tool call planning 调度优化                                     |
+| **AWorld**            | [inclusionAI/AWorld](https://github.com/inclusionAI/AWorld)                   | AgentLoop 继承 verl AgentLoopBase，Token Mask 优化；EventBus 事件通知 |
+| **MiroFlow**          | [MiroMindAI/MiroFlow](https://github.com/MiroMindAI/MiroFlow)                 | Financial research workflow                                 |
+| **MS-Agent**          | [modelscope/ms-agent](https://github.com/modelscope/ms-agent)                 | Doc research 多阶段检索                                          |
+
 
 
 
