@@ -10,6 +10,20 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats-six-ivory-92.vercel.app/api?theme=tokyonight&show_icons=true&username=wisdom-pan)
 
+## 🏅 奖项与专利
+
+- 🥈 天池多智能体金融多模态报告自动化生成大赛 **全球第二名**
+- 🥉 上海市大模型创新大赛 **三等奖**
+- 🥈 百度大模型应用创新挑战赛 **二等奖**
+- 🏆 面壁智能黑客松挑战赛 **创新奖**
+- 🥈 百川智能 × 亚马逊云科技黑客松 **二等奖**
+- 🥈 CSDN AI 应用创新大赛 **二等奖**
+
+**专利**：
+- 一种基于多智能体的金融研报生成系统
+- 一种基于 DeepSearch Agent 的术语翻译与管理系统
+- 一种基于 Coding Agent 长程任务的记忆管理系统
+
 
 
 
