@@ -8,7 +8,7 @@
 
    <img src=https://github.com/user-attachments/assets/27aaff49-132c-4e0e-9718-a975e7d426cf width = "130" height = "130" alt="weixin" />
 
-![Anurag's GitHub stats]([https://vercel.app](https://github-readme-stats-wisdompans-projects.vercel.app/api?theme=tokyonight&show_icons=true&username=wisdom-pan))
+![Anurag's GitHub stats](https://github-readme-stats-six-ivory-92.vercel.app/api?theme=tokyonight&show_icons=true&username=wisdom-pan)
 
 
 
